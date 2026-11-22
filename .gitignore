@@ -1,0 +1,8 @@
+/build/
+/pcapreport
+/tools/gen_samples
+/samples/
+/out/
+/raport/
+*.o
+*.d
